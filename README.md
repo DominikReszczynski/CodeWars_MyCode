@@ -4,3 +4,4 @@ Here are my correct codes from Codewars.com. The README file has more informatio
 Updets:
 -29.08.2023 4KYU 696
 -29.08.2023 4KYU 728
+-30.08.2023 4KYU 760
